@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pa.iml" filepath="$PROJECT_DIR$/pa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-feign/server-feign.iml" filepath="$PROJECT_DIR$/server-feign/server-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-hi/server-hi.iml" filepath="$PROJECT_DIR$/server-hi/server-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-hi2/server-hi2.iml" filepath="$PROJECT_DIR$/server-hi2/server-hi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-ribbon/server-ribbon.iml" filepath="$PROJECT_DIR$/server-ribbon/server-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-zuul/server-zuul.iml" filepath="$PROJECT_DIR$/server-zuul/server-zuul.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+eureka:
+  client:
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8751/eureka/
+server:
+  port: 8754
+spring:
+  application:
+    name: server-ribbon
+provider-demo:
+  ribbon:
+      NFLoadBalancerRuleClassName: com.netflix.loadbalancer.WeightedResponseTimeRule

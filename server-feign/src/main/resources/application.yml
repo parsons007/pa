@@ -1,0 +1,10 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8751/eureka/
+server:
+  port: 8755
+spring:
+  application:
+    name: server-feign
+
